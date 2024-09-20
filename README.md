@@ -2,6 +2,12 @@
 
 Welcome! Survana is a React.js-based music store application that allows you to explore, search for, and preview your favorite songs and artists.
 
+## Interface
+
+![Screenshot (47)](https://github.com/user-attachments/assets/6a5b89ea-026e-4178-8e42-1a1275ed18d9)
+
+![Screenshot (48)](https://github.com/user-attachments/assets/4d4bc444-81bb-4c21-8aa7-bb775068f364)
+
 ## Features
 
 - **Search Songs and Artists**: Easily find songs or artists by entering your search query.
